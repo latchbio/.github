@@ -14,9 +14,7 @@
 </html>
 
 <html>
-  <h3 align="center">
-The Latch
-the <a href="https://github.com/latchbio/latch">LatchBio SDK</a>
+  <h3 align="center">The LatchBio SDK</a>
   </h3>
 </html>
 
