@@ -1,5 +1,4 @@
-![SDK Banner](https://user-images.githubusercontent.com/31255434/182662488-afd6d5f1-fe55-4df1-a025-565c5984497d.png)
-
+![SDK Banner](https://user-images.githubusercontent.com/31255434/182662644-b85ccc23-064d-4c99-9090-0a7961c9920d.png)
 
 <html>
   <h3 align="center">
