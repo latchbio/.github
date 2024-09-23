@@ -1,5 +1,3 @@
-![SDK Banner](https://user-images.githubusercontent.com/31255434/182662644-b85ccc23-064d-4c99-9090-0a7961c9920d.png)
-
 <html>
   <h3 align="center">
   <a href="https://latch.bio/">Website</a>
@@ -11,11 +9,11 @@
 </html>
 
 <html>
-  <h3 align="center">LatchBio: Data Infrastructure for Biology</a>
+  <h3 align="center">LatchBio: Data Infrastructure for Biotech</a>
   </h3>
 </html>
 
-LatchBio is a modular and programmable data infrastructure designed to orchestrate diverse scientific teams for faster biological consensus. 
+Latch is a modular and programmable data infrastructure designed to orchestrate diverse scientific teams for faster biological consensus. 
 
 These are the components:
 
