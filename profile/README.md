@@ -4,46 +4,31 @@
   <h3 align="center">
   <a href="https://latch.bio/">Website</a>
   <span> · </span>
-  <a href="https://docs.latch.bio/">Documentation</a>
+  <a href="https://wiki.latch.bio/">Documentation</a>
   <span> · </span>
-  <a href="https://join.slack.com/t/latchbiosdk/shared_invite/zt-193ibmedi-WB6mBu2GJ2WejUHhxMOuwg">Slack</a>
-  <span> · </span>
-  <a href="https://latchbio.substack.com/">Medium</a>
+  <a href="https://blog.latch.bio/">Blog</a>
   </h3>
 </html>
 
 <html>
-  <h3 align="center">The LatchBio SDK</a>
+  <h3 align="center">LatchBio: Data Infrastructure for Biology</a>
   </h3>
 </html>
 
-#### Why the LatchBio SDK
+LatchBio is a modular and programmable data infrastructure designed to orchestrate diverse scientific teams for faster biological consensus. 
 
-The previous generation of bioinformatics frameworks, eg. nextflow, Snakemake,
-WDL, etc., are difficult to develop with, use outdated languages, and lack
-features needed in a modern software framework.
+These are the components:
 
-The [LatchBio SDK](github.com/latchbio/latch) is a workflow description language
-built with an emphasis on developer ergonomics and the following
-mission-critical features:
+- [Plots](https://wiki.latch.bio/plots/overview)
+- [Registry](https://wiki.latch.bio/registry/what-is-a-registry)
+- [Workflows](https://wiki.latch.bio/workflows/overview), including support for Nextflow, Snakemake and a Python SDK
+- [Pods](https://wiki.latch.bio/pods/overview)
+- [Data](https://wiki.latch.bio/data/overview)
+- [Compliance / streamlined IND filing](https://trust.latch.bio/)
 
-- No-code [interface generation](https://docs.latch.bio/basics/customizing_interface.html) and hosting
-- [Strong typing](https://docs.latch.bio/basics/parameter_types.html) of parameters
-- Serverless [cloud deployments](https://docs.latch.bio/basics/defining_cloud_resources.html)
-- Baked-in versioning + [containerization](https://docs.latch.bio/basics/writing_dockerfiles.html)
-- Auditable data + execution lineage
-- First-class python support (with integration for arbitrary languages)
+Read more about practical uses of Latch to answer real biological questions:
 
-### Latch Verified
-
-[Latch Verified](https://github.com/latch-verified) is a set of curated
-bioinformatics workflows built using the SDK. Check out source code and
-documentation at the linked repository.
-
-### Further Reading
-
-  * How the SDK fits into a broader [BioDevelopment Framework](https://latchbio.substack.com/p/bio-dev-fw)
-  * An overview of the [motivations and features](https://latchbio.substack.com/p/the-latch-sdk) of the SDK
-  * SDK [source code](https://github.com/latchbio/latch)
-
-[![Slack](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/latchbiosdk/shared_invite/zt-193ibmedi-WB6mBu2GJ2WejUHhxMOuwg)
+- [Bulk RNA-seq](https://blog.latch.bio/p/modern-infrastructure-for-bulk-rna)
+- [qPCR](https://blog.latch.bio/p/end-to-end-data-infrastructure-for)
+- [ATAC-seq](https://blog.latch.bio/p/interactive-tools-for-atac-seq-analysis)
+- [Using EVO + AlphaFold in an engineering loop](https://blog.latch.bio/p/engineering-aavs-with-evo-and-alphafold)
